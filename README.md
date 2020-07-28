@@ -6,6 +6,6 @@ I am a front-end developer, interaction designer, concept creator, and passionat
 
 
 Find me around the web:
-- ⚡ A polished overview <a href="https://derks.dk/#/">www.derks.dk</a> 
-- ⭐ A professional overview <a href="https://www.linkedin.com/in/derksdk/">LinkedIn</a> 
-- 💥 A not-so-polished overview <a href="https://derks.dk/#/others">www.derks.dk/others</a> 
+- ⚡ A polished overview - <a href="https://derks.dk/#/">Portfolio</a> 
+- ⭐ A professional overview - <a href="https://www.linkedin.com/in/derksdk/">LinkedIn</a> 
+- 💥 A not-so-polished overview - <a href="https://derks.dk/#/others">Portfolio/others</a> 
