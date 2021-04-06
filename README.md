@@ -2,7 +2,7 @@
 
 <img src="https://github.com/JeroenDerks/JeroenDerks/blob/master/cv-banner-img3.jpg" alt="banner that says Jeroen Derks - front-end developer, interaction designer, concept creator, and passionate about designing new ways to involve audiences in technology based experiences. ">
 
-I am a front-end developer, interaction designer, concept creator, and passionate about designing new ways to involve audiences in technology based experiences. Some of my favorite technologies include ReactJS, MaterialUI, P5js, Wordpress with Elementor and Mapbox.
+Good morning! Front-end developer, interaction designer, and passionate about creating new ways to involve audiences in technology based experiences. Some of my favorite technologies include React, NextJS, MaterialUI, Netlify, P5, Wordpress with Elementor and Mapbox.
 
 
 Find me around the web:
