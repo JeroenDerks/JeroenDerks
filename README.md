@@ -6,6 +6,6 @@ Good morning! Front-end developer, interaction designer, and passionate about cr
 
 
 Find me around the web:
-- ⚡  A polished overview - <a href="http://derks.dk/#/">Portfolio</a> 
+- ⚡  A polished overview - <a href="https://derks.dk/">Portfolio</a> 
 - ⭐  A professional overview - <a href="https://www.linkedin.com/in/derksdk/">LinkedIn</a> 
-- 💥  A not-so-polished overview - <a href="http://derks.dk/#/others">Portfolio/others</a> 
+- 💥  A not-so-polished overview - <a href="https://derks.dk/archive">Portfolio/archive</a> 
